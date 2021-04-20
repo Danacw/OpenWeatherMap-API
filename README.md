@@ -1,2 +1,2 @@
 # Python-API-Challenge
-Python API WeatherPy Challenge for UC Davis Data Analytics Bootcamp - Spring 2021
+Python API WeatherPy and VacationPy challenges for UC Davis Data Analytics Bootcamp - Spring 2021
