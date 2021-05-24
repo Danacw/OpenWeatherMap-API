@@ -1,7 +1,7 @@
 # Python-API-Challenge
 Python API WeatherPy and VacationPy challenges for UC Davis Data Analytics Bootcamp - Spring 2021
 
-**Part I: Analysis**
+**Analysis**
 From the WeatherPy analysis we can come to a few different general conclusions about weather trends across the globe. 
 
 First off in the northern hemisphere, a negative correlation between latitude and max temperature is very apparent. Therefor we can assume that the lower the latitude the higher the max temperature. In the southern hemisphere, a positive correlation exists between latitude and temperature. Therefor we can say that the higher the latitude the the higher the temperature. 
