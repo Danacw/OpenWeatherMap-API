@@ -1,9 +1,19 @@
 # Python-API-Challenge
 Python API WeatherPy and VacationPy challenges for UC Davis Data Analytics Bootcamp - Spring 2021
 
+**WeatherPy:**
+
+  - Contains my jupyter notebook file of my intial analysis.
+  - Contains images of my scatter plots with and without the linear regression lines.
+ 
+**VacationPy:**
+
+  - Contains my jupyter notebook file of my final analysis using Google Maps API to generate a heat map based on temperature.  
+  - Contains an image of my final heat map.
+
 **Methods:**
 
-For this challenge, I created a Python script in Jupyter Notebook and used OpenWeather Map's API to visualize data on weather trends for 500+ cities across the globe. I first performed API calls to find information on temperature, humidity, cloudiness and wind speed in each city. I then used MatPlotLib to generate scatter plots and run a regression analysis for each graph.  
+For this challenge, I created a Python script in Jupyter Notebook and used OpenWeather Map's API and Google Maps API to visualize data on weather trends for 500+ cities across the globe. I first performed API calls to find information on temperature, humidity, cloudiness and wind speed in each city. I then used MatPlotLib to generate scatter plots and run a regression analysis for each graph.  
 
 **Analysis:**
 
